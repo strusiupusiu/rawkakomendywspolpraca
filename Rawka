@@ -165,7 +165,7 @@
     {
       "storage": "1",
       "varName": "embed",
-      "fieldName": "Nazwa serwera z którym chcesz zawrzeć współpracę:",
+      "fieldName": "Nazwa serwera:",
       "message": "${tempVars(\"Nazwa serwera z którym chcesz zawrzeć współpracę:\")}",
       "inline": "0",
       "name": "Add Embed Field"
@@ -173,7 +173,7 @@
     {
       "storage": "1",
       "varName": "embed",
-      "fieldName": "Ping właściciela serwera z którym chcesz zawrzeć współpracę:",
+      "fieldName": "z KIM:",
       "message": "${tempVars(\"Ping właściciela serwera z którym chcesz zawrzeć współpracę:\")}",
       "inline": "0",
       "name": "Add Embed Field"
@@ -181,7 +181,7 @@
     {
       "storage": "1",
       "varName": "embed",
-      "fieldName": "Treść reklamy:",
+      "fieldName": "TREŚĆ REKLAMY SERWERA:",
       "message": "${tempVars(\"Treść reklamy:\")}",
       "inline": "1",
       "name": "Add Embed Field"
