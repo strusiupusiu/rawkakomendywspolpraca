@@ -141,7 +141,7 @@
       "name": "Store Member Info"
     },
     {
-      "title": "Nowe podanie na streamera ${tempVars(\"uzytkowniknick\")}",
+      "title": "NOWA WSPÓŁPRACA",
       "author": "",
       "color": "RANDOM",
       "url": "",
@@ -207,6 +207,7 @@
       "varName3": "",
       "iffalse": "0",
       "iffalseVal": "",
+      "messageContent": "",
       "name": "Send Embed Message"
     },
     {
